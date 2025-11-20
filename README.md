@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Piyush Chitroda</h1>
 
-<!--
-**piyush-045/piyush-045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Embedded Systems Engineer | STM32 | FreeRTOS | IoT Developer from India
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **STM32F446RE, ESP32, NXP S32K144**
+- 🌱 I’m currently learning **RTOS, Embedded Linux, CAN, Zephyr RTOS**
+- 💬 Ask me about **Embedded C, Drivers, STM32CubeIDE, HAL, Bare-metal**
+- ⚡ Fun fact: **I love building real hardware projects 😄**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,stm32,linux,git,github,hardware" />
+
+---
+
+### 📊 GitHub Stats
+
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
