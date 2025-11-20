@@ -77,16 +77,6 @@
 
 ---
 
-### 🔧 **Hardware & Electronics**
-<p align="center">
-  <img src="https://img.shields.io/badge/PCB%20Design-KiCad-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Oscilloscope-444?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hardware%20Debugging-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Motor%20Drivers-TMC%20%7C%20DRV-orange?style=for-the-badge"/>
-</p>
-
----
-
 # 📊 **Premium GitHub Stats Dashboard**
 
 <p align="center">
