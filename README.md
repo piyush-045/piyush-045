@@ -71,7 +71,7 @@
 
 ### 🧰 **Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,qt" height="55"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="55"/>
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="55"/>
 </p>
 
