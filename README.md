@@ -8,11 +8,6 @@
 
 <h1 align="center">⚡ Embedded Firmware Engineer ⚡</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-✨%20Dynamic%20✨-purple?style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=piyush-045&color=ff69b4&style=for-the-badge">
-</p>
-
 ---
 
 # 🌟 **About Me**
@@ -106,16 +101,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/master/profile-night-green.svg" width="900px"/>
-</p>
-
----
-
-# 🤝 **Let’s Connect**
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
 </p>
 
 ---
