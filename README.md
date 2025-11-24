@@ -23,7 +23,7 @@
 
 ---
 
-# 🛠️ **Skills (Premium Glass Icons Set)**  
+# 🛠️ **Skills **  
 
 ### 💻 **Programming**
 <p align="center">
@@ -72,7 +72,7 @@
 
 ---
 
-# 📊 **Premium GitHub Stats Dashboard**
+# 📊 **GitHub Stats Dashboard**
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyush-045&show_icons=true&theme=tokyonight&border_radius=10&border_color=00eaff"/>
