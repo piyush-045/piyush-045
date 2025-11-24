@@ -14,9 +14,9 @@
 
 ### I'm passionate about building real embedded systems — from **low-level drivers** to **RTOS-based firmware**, **IoT devices**, and **bare-metal microcontroller design**.
 
-- 🔭 Working on: **STM32F4/F7, ESP32, nRF52, NXP S32K311, 8051, BBB**
-- 🧠 Learning: **Zephyr RTOS, Bootloaders, Embedded Linux, CAN, Motor Drivers**
-- 🚀 Interested in: **RTOS, Robotics, Firmware Architecture, Edge AI**
+- 🔭 Worked on: **STM32F4/F7,NXP S32K311, Nuvoton, 8051, BeagleBoneBlack ,Protocols, FreeRtos**
+- 🧠 Learning: **IoT Esp32, nrf52, Bootloaders, Embedded Linux, CAN, Automotive**
+- 🚀 Interested in: **Doing Reserch on new technologys**
 - 💬 Ask me about: **Bare-metal, Drivers, HAL/LL, Debugging, Protocols**
 - ⚙️ Focus Areas: **UART, SPI, I2C, CAN, ADC, DMA, Timers, PWM, Interrupts**
 - ❤️ Love: **Debugging real hardware + Logic analyzers + Oscilloscope magic**
